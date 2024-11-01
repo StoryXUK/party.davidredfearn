@@ -153,7 +153,7 @@ a:hover {
 }
 
 /* Button styling */
-.btn-book {
+.btn-default2 {
     color: #fff;
     background-color: #1B1B1B;
     border: 2px solid #1B1B1B;
@@ -168,7 +168,7 @@ a:hover {
 }
 
 /* Button hover effect */
-.btn-book:hover {
+.btn-default2:hover {
     background-color: #db543e;
     border-color: #db543e;
     color: #fff;
